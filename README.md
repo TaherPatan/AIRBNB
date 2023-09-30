@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB and NextAuth
 
-![AIRBNB CLONE](https://github.com/TaherPatan/AIRBNB/assets/39644647/df995b1a-1011-4d39-9e49-ac288b3ac0f8)
+![AIRBNB CLONE](https://github.com/TaherPatan/AIRBNB/assets/39644647/9f28f0fd-ef25-498c-a0fe-df7dfe1c0a17)
 
 ## Key Features:
 
@@ -91,53 +91,50 @@ Running commands with npm `npm run [command]`
 
 ## Home Page List View
 
-![Airbnb-Clone](https://github.com/TaherPatan/AIRBNB/assets/39644647/93f24937-d2f7-4662-8dfc-09944833c261)
+![Airbnb-Clone](https://github.com/TaherPatan/AIRBNB/assets/39644647/7677c6e5-46f5-41e2-9960-70ce5e141468)
 
 ## Home Page Map View
 
-![uisearc](https://github.com/TaherPatan/AIRBNB/assets/39644647/0e77f5ac-b3aa-41a3-a7b8-dbcce2e603b6)
+![uisearc](https://github.com/TaherPatan/AIRBNB/assets/39644647/b0b3cf8b-bb64-4ab4-9002-62b051cebd25)
 
 ## Login Page
 
-![login](https://github.com/TaherPatan/AIRBNB/assets/39644647/0cd9d106-0480-4110-ab89-7586c51d4a57)
+![login](https://github.com/TaherPatan/AIRBNB/assets/39644647/4ec1965f-e29f-4bad-b1e8-2c6c84006d6e)
 
 ## Scheduler UI
 
-![Scheduler](https://github.com/TaherPatan/AIRBNB/assets/39644647/e63db8c3-c117-4516-b6c6-a1b70d99b790)
+![Scheduler](https://github.com/TaherPatan/AIRBNB/assets/39644647/2f163ad0-282f-47d8-bff0-30a0da89d6f9)
 
 ## Search Listings
 
-![search](https://github.com/TaherPatan/AIRBNB/assets/39644647/5988df31-e76f-46a8-9b5e-c37964f356bd)
+![search](https://github.com/TaherPatan/AIRBNB/assets/39644647/7d207d62-c78a-4f45-ab7f-61d8519b9941)
 
 ## Add New Listings
 
-![process1](https://github.com/TaherPatan/AIRBNB/assets/39644647/164a876d-6962-44a6-aed0-8c7ce8478c5a)
+![process1](https://github.com/TaherPatan/AIRBNB/assets/39644647/fd89bef3-b4e6-46ef-af8b-9103ca16859e)
 
-![process2](https://github.com/TaherPatan/AIRBNB/assets/39644647/afd2aefb-d0fc-4f1d-8559-94ee1598f5ee)
+![process2](https://github.com/TaherPatan/AIRBNB/assets/39644647/3bee606b-4f0a-493f-a63c-603b7b4abda3)
 
-![process3](https://github.com/TaherPatan/AIRBNB/assets/39644647/c2a2b8fa-2a51-48bf-bcd4-85cd3cd79102)
+![process3](https://github.com/TaherPatan/AIRBNB/assets/39644647/32a7d6b9-db4d-4b5e-8b19-177c3aac4c97)
 
-![process4](https://github.com/TaherPatan/AIRBNB/assets/39644647/80b0623d-8da8-4642-aac3-236530ed718c)
+![process4](https://github.com/TaherPatan/AIRBNB/assets/39644647/411da649-b15e-4b75-a137-266115f7a040)
 
-![process5](https://github.com/TaherPatan/AIRBNB/assets/39644647/1666a6fc-d78f-4bf9-bc4a-45f8914522dc)
+![process5](https://github.com/TaherPatan/AIRBNB/assets/39644647/f6a5287f-d04e-4914-ab9e-36e097233de9)
 
-![process6](https://github.com/TaherPatan/AIRBNB/assets/39644647/22c03e92-56a9-4cb1-9dbf-b639d9bb2edb)
+![process6](https://github.com/TaherPatan/AIRBNB/assets/39644647/8f9cd33b-4dd0-4902-abab-46552d194bba)
 
-![process7](https://github.com/TaherPatan/AIRBNB/assets/39644647/7e814c60-9f05-4c6b-bae3-a3e125681a8f)
+![process7](https://github.com/TaherPatan/AIRBNB/assets/39644647/4a4a7da8-228b-4c31-b2db-c11154307cde)
 
-![process8](https://github.com/TaherPatan/AIRBNB/assets/39644647/8b37a34e-29d7-4bb8-9525-6b7d0194711d)
+![process8](https://github.com/TaherPatan/AIRBNB/assets/39644647/b33b6b10-a736-4bff-a4c5-240a656a9e80)
 
 ## My Listings
 
-![mylistings](https://github.com/TaherPatan/AIRBNB/assets/39644647/5c1839a1-edd8-45f8-96b9-c844ea298326)
-
+![mylistings](https://github.com/TaherPatan/AIRBNB/assets/39644647/a9e3ce55-a8a8-43a2-a6ca-f3dc24096fec)
 
 ## Wishlists
 
-![wishlists](https://github.com/TaherPatan/AIRBNB/assets/39644647/575f5c92-edce-4755-8e1a-2d8437ac2900)
-
+![wishlists](https://github.com/TaherPatan/AIRBNB/assets/39644647/5ec3c7c7-a11d-4685-a56e-536755545ea6)
 
 ## Listing Info Page
 
-![listing](https://github.com/TaherPatan/AIRBNB/assets/39644647/16551385-bea6-4d10-989d-722cbb8ac146)
-
+![listing](https://github.com/TaherPatan/AIRBNB/assets/39644647/108a04e6-b622-4c64-8d5c-9730189be8f0)
